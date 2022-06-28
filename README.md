@@ -1,7 +1,7 @@
 - Olá, Eu sou Lucas
-- Atualmente interessado em Teste Q/A
-- Atualmente estudando Banco de Dados
-- Procurando por uma vaga de estágio na área de Testes
+- Atualmente interessado em Desenvolvimento Mobile
+- Atualmente estudando Flutter
+- Procurando por uma vaga na área de desenvolvimento mobile
 - Meu email de contato lucasmmedeirosm@gmail.com
 
 <!---
