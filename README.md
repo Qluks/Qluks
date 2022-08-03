@@ -1,7 +1,7 @@
 - Olá, Eu sou Lucas
-- Atualmente interessado em Desenvolvimento Mobile
-- Atualmente estudando Flutter
-- Procurando por uma vaga na área de desenvolvimento mobile
+- Atualmente interessado em QA
+- Atualmente estudando Cypress
+- Procurando por uma vaga na área de Testes
 - Meu email de contato lucasmmedeirosm@gmail.com
 
 <!---
