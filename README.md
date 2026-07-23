@@ -14,12 +14,6 @@ Engenheiro de Dados, atualmente atuando na **EY**, prestando serviços para o **
 
 <br>
 
-<div>
-  <a href="https://github.com/Qluks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qluks&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qluks&layout=compact&langs_count=6&theme=date_night"/>
-</div>
-
 ### 🛠️ Stack principal
 
 <div style="display: inline_block"><br>
